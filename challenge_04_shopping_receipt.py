@@ -1,0 +1,15 @@
+Item_1 = input("Please what is the name of Item 1: ")
+Price_1 = float(input("Please what is the price of Item 1: "))
+Item_2 = input("Please what is the name of Item 2: ")
+Price_2 = float(input("Please what is the price of Item 2: "))
+Item_3 = input("Please what is the name of Item 3: ")
+Price_3 = float(input("Please what is the price of Item 3: "))
+TOTAL = Price_1+Price_2+Price_3
+# Print receipt
+print("Anthony's Superstore")
+print("---------------------")
+print(f"{Item_1:<12} ${Price_1:>5.2f}")
+print(f"{Item_2:<12} ${Price_2:>5.2f}")
+print(f"{Item_3:<12} ${Price_3:>5.2f}")
+print("---------------------")
+print(f"{'TOTAL':<12} ${TOTAL:>5.2f}")
