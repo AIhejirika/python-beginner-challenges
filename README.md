@@ -21,7 +21,7 @@
 
 **Output:**
 
-![Challenge 1 Output](screenshots/challenge_01_output.png)
+![Challenge 1 Output](challenge_01_output.png)
 
 ### Challenge 2 — Age Calculator
 
@@ -31,7 +31,7 @@
 
 **Output:**
 
-![Challenge 2 Output](screenshots/challenge_02_output.png)
+![Challenge 2 Output](challenge_02_output.png)
 
 ### Challenge 3 — Personalised Greeting
 
@@ -41,7 +41,7 @@
 
 **Output:**
 
-![Challenge 3 Output](screenshots/challenge_03_output.png)
+![Challenge 3 Output](challenge_03_output.png)
 
 ### Challenge 4 — Shopping Receipt 
 
@@ -51,7 +51,7 @@
 
 **Output:**
 
-![Challenge 4 Output](screenshots/challenge_04_output.png)
+![Challenge 4 Output](challenge_04_output.png)
 
 ### Challenge 5 — Profile Card
 
@@ -61,4 +61,4 @@
 
 **Output:**
 
-![Challenge 5 Output](screenshots/challenge_05_output.png)
+![Challenge 5 Output](challenge_05_output.png)
