@@ -62,7 +62,7 @@
 
 **Concepts:** `input(), int(), float(), str(), f-strings, multiple data types together
 
-**Solution file:** `challenge_05_greeting.py`
+**Solution file:** `challenge_05_profile_card.py`
 
 **Output:**
 
