@@ -33,7 +33,7 @@
 
 **Output:**
 
-screenshots/challenge_02_output.png
+![Challenge 2 Output](screenshots/challenge_02_output.png)
 
 
 ### Challenge 3 — Personalised Greeting
@@ -44,7 +44,7 @@ screenshots/challenge_02_output.png
 
 **Output:**
 
-screenshots/challenge_03_output.png
+![Challenge 3 Output](screenshots/challenge_03_output.png)
 
 
 ### Challenge 4 — Shopping Receipt 
@@ -55,15 +55,16 @@ screenshots/challenge_03_output.png
 
 **Output:**
 
-screenshots/challenge_04_output.png
+![Challenge 4 Output](screenshots/challenge_04_output.png)
 
 
 ### Challenge 5 — Profile Card
 
 **Concepts:** `input(), int(), float(), str(), f-strings, multiple data types together
 
-**Solution file:** `challenge_05_greeting.py`
+**Solution file:** `challenge_05_profile_card.py`
 
 **Output:**
 
-screenshots/challenge_05_output.png
+![Challenge 5 Output](screenshots/challenge_05_output.png)
+
