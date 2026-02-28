@@ -21,7 +21,8 @@
 
 **Output:**
 
-screenshots/challenge_01_output.png
+![Challenge 1 Output](screenshots/challenge_01_output.png)
+
 
 
 ### Challenge 2 — Age Calculator
